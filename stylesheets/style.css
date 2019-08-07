@@ -54,7 +54,7 @@ main {
 }
 
 #search-input:focus {
-    /*outline: none;*/
+    outline: none;
 }
 
 /* Nav bar and footer */
